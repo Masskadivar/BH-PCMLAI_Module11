@@ -1,4 +1,4 @@
-# BH-PCMLAI_Modules11
+# BH-PCMLAI_Module11
 This repo contains the practical application assignment for Mod11
 
 OVERVIEW
